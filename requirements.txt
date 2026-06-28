@@ -1,0 +1,7 @@
+# Install PyTorch and torchvision through environment.yml or the official CUDA wheel first.
+timm==0.4.12
+easydict==1.13
+numpy==1.26.4
+Pillow==10.4.0
+tensorboard==2.17.1
+scipy==1.13.1
